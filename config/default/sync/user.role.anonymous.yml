@@ -1,0 +1,11 @@
+uuid: 8ffc4183-f348-4716-988c-7944568e51a4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: j5zLMOdJBqC0bMvSdth5UebkprJB8g_2FXHqhfpJzow
+id: anonymous
+label: 'Anonymous user'
+weight: 0
+is_admin: false
+permissions: {  }
