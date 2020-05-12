@@ -34,7 +34,7 @@ $databases = [
 
 $trusted_hostname = preg_quote(getenv('PROJECT_BASE_URL'), '/');
 $settings['trusted_host_patterns'] = [
-  "^{$trusted_hostname}$",
+  "^{$trusted_hostname}",
   "nginx",
 ];
 
