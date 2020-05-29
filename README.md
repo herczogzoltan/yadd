@@ -9,7 +9,7 @@
 
 
 1. `cp .env.example .env` file (you may want to change PHP version according to your OS)
-1. `cp web/sites/default/example.local.settings.php web/sites/default/local.settings.php`
+1. `cp docroot/sites/default/example.local.settings.php docroot/sites/default/local.settings.php`
 1. Initialize the stack:
     1. On Linux use `make up`
     1. On OS X:
