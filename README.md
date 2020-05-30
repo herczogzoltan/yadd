@@ -21,6 +21,8 @@
 
 You may want to add the `PROJECT_BASE_URL` configured in the .env file to your `/etc/hosts` file
 
+After that you can visit your site at `PROJECT_BASE_URL`:`TRAEFIK_PORT` - for example `http://yadd.local:8000`.
+
 ## Make commands
 
 To get information about what can you do with make please run:
