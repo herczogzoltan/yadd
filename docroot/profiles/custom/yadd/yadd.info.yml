@@ -3,5 +3,5 @@ name: 'YADD'
 description: 'Yet Another Dockerized Drupal'
 package: 'YADD'
 project: yadd
-version: 8.x-1.x-dev
-core_version_requirement: ^8 || ^9
+version: 9.x-1.x-dev
+core_version_requirement: ^9
