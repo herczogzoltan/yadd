@@ -1,7 +1,7 @@
 uuid: 943cd45e-6b2b-4829-90dd-1aaaeec6f044
-name: 'Drush Site-Install'
+name: YADD
 mail: admin@example.com
-slogan: ''
+slogan: 'Yet Another Dockerized Drupal 9 site'
 page:
   403: ''
   404: ''
