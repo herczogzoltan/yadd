@@ -1,5 +1,7 @@
 # Yet Another Dockerized Drupal
 
+Kickstart your new Drupal 9 site now!
+
 ## Requirements
 
 - docker-sync
