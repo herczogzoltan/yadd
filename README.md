@@ -18,7 +18,6 @@ Kickstart your new Drupal 9 site now!
         1. Then `make up` (you may have to wait for the sync to synchronize the files into the volume)
 1. `make composer install`
 1. `make drush "site:install yadd --existing-config"`
-1. `make drush "config-split:import local"`
 
 You may want to add the `PROJECT_BASE_URL` configured in the .env file to your `/etc/hosts` file
 
